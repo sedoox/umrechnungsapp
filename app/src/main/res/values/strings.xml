@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UmrechnungsApp2</string>
+    <string-array name="area_units">
+        <item>Quadratmillimeter</item>
+        <item>Quadratzentimeter</item>
+        <item>Quadratdezimeter</item>
+        <item>Quadratmeter</item>
+        <item>Ar</item>
+        <item>Hektar</item>
+        <item>Quadratkilometer</item>
+    </string-array>
+</resources>
